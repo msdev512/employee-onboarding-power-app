@@ -62,7 +62,7 @@ The exact departments and task templates are configurable for each organization.
 - Microsoft 365 Users and Outlook connectors
 - Microsoft Teams integration options
 
-## Solution Screenshots
+<!-- ## Solution Screenshots
 
 
 
@@ -75,7 +75,7 @@ The exact departments and task templates are configurable for each organization.
 ### Employee Info Update
 ![Onboarding progress tracking](assets/AddEmpTab.png)
 
-
+-->
 ## Repository Structure
 
 ```text
