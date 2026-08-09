@@ -1,10 +1,8 @@
 # Employee Onboarding Power App
 
-<!-- After adding assets/project-thumbnail.png, remove these comment markers.
 <p align="center">
-  <img src="assets/project-thumbnail.png" alt="Employee Onboarding Power App" width="900">
+  <img src="assets/obfThumbnail.png" alt="Automated inspection reports and PDF generation" width="900">
 </p>
--->
 
 A Microsoft Power Platform solution that coordinates employee onboarding across HR, management, IT, security, operations and administrative teams through one structured and traceable workspace.
 
@@ -66,21 +64,17 @@ The exact departments and task templates are configurable for each organization.
 
 ## Solution Screenshots
 
-Add sanitized images to `assets`, then remove the comment markers below.
 
-<!--
+
 ### Onboarding Dashboard
-![Employee onboarding dashboard](assets/onboarding-dashboard.png)
+![Employee onboarding dashboard](assets/01_Hero_Dashboard_Tablet.png)
 
-### Employee Onboarding Record
-![Employee onboarding record](assets/employee-record.png)
+### Department Task View
+![Employee onboarding record](assets/03_Department_Task_View.png)
 
-### Departmental Tasks
-![Departmental onboarding tasks](assets/department-tasks.png)
+### Employee Info Update
+![Onboarding progress tracking](assets/AddEmpTab.png)
 
-### Progress Tracking
-![Onboarding progress tracking](assets/progress-tracking.png)
--->
 
 ## Repository Structure
 
